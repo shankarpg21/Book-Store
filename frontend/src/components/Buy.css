@@ -1,0 +1,30 @@
+.pay{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.opt{
+    height: 100px;
+    width: 150px;
+    margin: 10px;
+    background-color: rgb(46, 184, 90);
+    border-radius: 4%;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px black;
+    font-size: large;
+    color: azure;
+}
+
+.opt:hover{
+    background-color: purple;
+}
+
+.opt:active{
+    background-color: cornflowerblue;
+}
+
+.msg{
+    font-size: xx-large;
+}

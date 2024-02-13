@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+header{
+    background-color: goldenrod;
+    font-weight: bolder;
+    font-size: xx-large;
+    padding: 40px;
+    box-shadow: 2px 3px 3px black;
+}
+
+.child{
+    height: 100px;
+    width: 150px;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: powderblue;
+    border-radius: 4%;
+    box-shadow: 2px 2px 4px black;
+}
+
+.child:hover{
+    background-color: greenyellow;
+}
+
+.child:active{
+    background-color: yellow;
+}
