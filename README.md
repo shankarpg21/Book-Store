@@ -1,1 +1,1 @@
-Book store is simple mern stack application where user view,buy books and admin able to update,delete,add book details
+Book store is simple MERN stack application where user view,buy books and admin able to update,delete,add book details.
